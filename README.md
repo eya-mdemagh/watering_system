@@ -1,5 +1,18 @@
 # watering_system
-This is an automatic watering system made with Arduino.
-It checks the soil moisture and turns on a water pump when the plant needs water.
-It also checks the water level and sends alerts if the water is low.
-You can control it using a mobile app with Bluetooth.
+This project is a smart and automatic watering system designed using Arduino. It monitors soil moisture and water levels to activate a pump when irrigation is needed. The system helps save water and ensures that plants get the right amount of moisture without manual intervention.
+Components used:
+Arduino Uno
+
+Soil moisture sensor
+
+Water level sensor
+
+Relay + water pump
+
+Buzzer + LED
+
+HC-06 Bluetooth module
+
+RemoteXY app
+
+
